@@ -31,3 +31,11 @@ Thank you for visiting my portfolio!
 ![HR Dashboard 2](HR-Analytics-Report/HR-Analytics-Page2.png)
 
 ![HR Dashboard 3](HR-Analytics-Report/HR-Analytics-Page3.png)
+
+## 📈 Product Sales Analysis Dashboard
+
+![Product Dashboard 1](Product-Sales-Report/Product-Sales-Page1.png)
+
+![Product Dashboard 2](Product-Sales-Report/Product-Sales-Page2.png)
+
+![Product Dashboard 3](Product-Sales-Report/Product-Sales-Page3.png)
