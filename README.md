@@ -23,3 +23,11 @@ This repository contains my Power BI dashboard projects including HR Analytics a
 - SQL
   
 Thank you for visiting my portfolio!
+
+## 📊 HR Analytics Dashboard
+
+![HR Dashboard 1](HR-Analytics-Report/HR-Analytics-Page1.png)
+
+![HR Dashboard 2](HR-Analytics-Report/HR-Analytics-Page2.png)
+
+![HR Dashboard 3](HR-Analytics-Report/HR-Analytics-Page3.png)
